@@ -1,0 +1,3 @@
+# Manually added Nightly toolchain for the optional exercise on k_macros that requires const trait funcions
+[toolchain]
+channel = "nightly"
